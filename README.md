@@ -11,5 +11,5 @@ Discover the benefits of search engine optimization, online reputation building,
 https://brandonag.github.io/horiseon/
 
 ## Contribution
-Xandromus
-Brandon Arnst-Goodrich
+* Xandromus
+* Brandon Arnst-Goodrich
